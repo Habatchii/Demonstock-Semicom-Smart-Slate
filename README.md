@@ -1,0 +1,2 @@
+# Demonstock-Semicom-Smart-Slate
+The Demonstock Semicom Smart Slate is a virtual cinematographic slate used in film and digital cinematography. Complete with a lightweight debugger, Semicom codesmiths may refactor cinemagraphic extensions to build custom GUI virtual devices and functions. Version 1.0 features entails the Demonstock Semicom Smart Slate Specification Library, the Demonstock Transcom IDE and the Demonstock API Library.
