@@ -1,6 +1,7 @@
 
 Demonstock:
 Demonstock-Semicom-Smart-Slate
+
 Introduction:
 The Demonstock-Semicom-Smart-Slate is a digital cinematography timetablet for preproduction, production and post-production digital 🎥 filming. It has a native IDE and enterprise grade VM support for corporate content.
 
