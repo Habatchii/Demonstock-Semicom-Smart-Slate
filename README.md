@@ -12,9 +12,9 @@ The Demonstock Semicom Smart Slate Specification Library
 The Demonstock Transcom IDE
 The Demonstock API Library
 The Demonstock Production Manager
-The Demonstock Luminosity & Audio Manager
+The Demonstock Library Manager
 The Demonstock End User License Manager
-The Demonstock Semicom Corporate Support Manager
+The Demonstock Semicom Network Manager
 
 Extensions and Virtual Appliances (EVA):
 Demonstock slates and timetablets support the installation and maintenance of user created GUI properties known as extensions and virtual appliances or “EVA’. Basic EVA’s may consist of smartphone camera apps and themed presentations. Categories of corporate EVA’s may include tele-conferencing and tradeshow productions.
